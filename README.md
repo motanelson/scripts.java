@@ -1,2 +1,2 @@
-Script java java jbat file runner
+Script java java script file runner
 
