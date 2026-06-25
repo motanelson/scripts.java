@@ -1,1 +1,1 @@
-editor id auto sugestion on python
+Script java java jbat file runner
